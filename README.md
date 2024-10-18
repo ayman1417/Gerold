@@ -1,4 +1,4 @@
-This project showcases a visually appealing, modern, dark-themed portfolio website built with CSS and responsive design principles. The design leverages custom properties (CSS variables) for efficient theme control and features the following:
+This project showcases a visually appealing, modern, dark-themed portfolio website built with CSS , Bootstrap framwork and responsive design principles. The design leverages custom properties (CSS variables) for efficient theme control and features the following:
 
 Key Features:
 Dynamic Hover Effects: Smooth transitions on buttons, links, and images using gradient backgrounds and rotations to enhance user interaction.
